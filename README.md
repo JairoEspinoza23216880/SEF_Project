@@ -1,2 +1,2 @@
 # SEF_Project
-In this repository we´ll save our Proyect
+En este repositorio guardaremos todo lo relacionado al trabajo en equipo de la materia de Fundamentos de Ingeniería de Software
