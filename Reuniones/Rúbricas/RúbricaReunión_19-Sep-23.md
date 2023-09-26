@@ -1,5 +1,14 @@
 **Fecha:** Martes 19 de Septiembre 2023
 
+### Participantes
+- Jairo Gerardo Espinoza Tec
+- José Gaspar 
+- Santiago López Puc
+
+*Faltantes:
+- Ariadne Dolores Salazar Mejía (Enferma)
+- Pablo Jonathan Dzul Verde (Ocupado)
+
 ### Razón de la Reunión:
 - Concretar la idea del proyecto
 

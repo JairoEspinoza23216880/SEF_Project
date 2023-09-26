@@ -1,5 +1,14 @@
 **Fecha:** Viernes 22 de Septiembre 2023
 
+### Participantes
+- Jairo Gerardo Espinoza Tec
+- José Gaspar 
+- Santiago López Puc
+- Pablo Jonathan Dzul Verde
+
+*Faltantes:
+- Ariadne Dolores Salazar Mejía (Enferma)
+
 ### Razón de la Reunión:
 - Ampliar los conceptos de la idea
 - Definir Usuarios y Propuesta de Valor
