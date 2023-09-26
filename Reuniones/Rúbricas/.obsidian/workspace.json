@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bd4c7f23b62b639a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RúbricaReunión_26-Sep-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RúbricaReunión_22-Sep-23.md",
+                "file": "RúbricaReunión_26-Sep-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RúbricaReunión_22-Sep-23.md",
+                "file": "RúbricaReunión_26-Sep-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RúbricaReunión_22-Sep-23.md"
+                "file": "RúbricaReunión_26-Sep-23.md"
               }
             }
           }
@@ -155,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff4c366ba1345fa",
+  "active": "bd4c7f23b62b639a",
   "lastOpenFiles": [
-    "RúbricaReunión_19-Sep-23.md",
     "RúbricaReunión_22-Sep-23.md",
+    "RúbricaReunión_26-Sep-23.md",
+    "RúbricaReunión_19-Sep-23.md",
     "Untitled.canvas",
     "2023-09-24.md"
   ]
