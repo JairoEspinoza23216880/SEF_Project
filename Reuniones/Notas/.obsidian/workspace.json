@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
+                "file": "Borradores de Requerimientos No Funcionales.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
+                "file": "Borradores de Requerimientos No Funcionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
+                "file": "Borradores de Requerimientos No Funcionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md"
+                "file": "Borradores de Requerimientos No Funcionales.md"
               }
             }
           }
