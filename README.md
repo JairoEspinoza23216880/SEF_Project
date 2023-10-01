@@ -41,13 +41,17 @@ Para que la aplicación cumpla su propósito, deberá cumplir con varios requeri
 - **Registro de Lugares :**
   La aplicación no es solo para turistas, negocios y sitios turísticos pueden registrarse para así aparecer en el itinerario del próximo vacacionista
 
-[Requerimientos Funcionales](Requerimientos/Requerimientos Funcionales.pdf)
-[Requerimientos No Funcionales](Requerimientos/Requerimientos No Funcionales.pdf)
+[Requerimientos Funcionales](/Requerimientos/Requerimientos Funcionales.pdf)
+
+[Requerimientos No Funcionales](/Requerimientos/Requerimientos No Funcionales.pdf)
+
 [Diagrama de Requerimientos No Funcionales](/Requerimientos/Diagrama de Requerimientos No Funcionales.pdf)
 
 #### Casos de Uso e Historias de Usuario
 [Casos de Uso](/Casos de usos e Historias de Usuario/Casos de usos.pdf)
+
 Diagrama de Casos de Uso
+
 Historias de Usuario
 
 #### Metodología del Proceso
