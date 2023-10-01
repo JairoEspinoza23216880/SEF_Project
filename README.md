@@ -1,6 +1,6 @@
 # Proyecto de la Materia de Fundamentos de Ingeniería de Software
 ## *Primera Entrega*
-![[/Assets/TuriziminLogoNBG.png]]
+![Logo Turizimin](/Assets/TuriziminLogoNBG.png)
 #### Equipo:
 - Jairo Gerardo Espinoza Tec
 - Ariadne Dolores Salazar Mejía
