@@ -48,11 +48,10 @@ Para que la aplicación cumpla su propósito, deberá cumplir con varios requeri
 [Diagrama de Requerimientos No Funcionales](/Requerimientos/Diagrama-Requerimientos-NF.pdf)
 
 #### Casos de Uso e Historias de Usuario
-[Casos de Uso](/CasosUso-HistoriasUsuario/CasosUso.pdf)
 
-Diagrama de Casos de Uso
+[Diagrama de Casos de Uso](/CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf)
 
-Historias de Usuario
+[Historias de Usuario](/CasosUso-HistoriasUsuario/HistoriasUsuario.pdf)
 
 #### Metodología del Proceso
 Para este proyecto decidimos adoptar la metodología Kanban, una metodología flexible que se basa en el trabajo continuo pero limitado y maximizar la eficiencia del mismo, esto le permite al equipo estar siempre listos para adaptarse a las prioridades cambiantes.
@@ -85,3 +84,5 @@ Se decidió usar esta metodología debido a que con ella podemos identificar mej
   Al realizar la documentación se revisaron todas los requerimientos a fin de asegurar su calidad
 
 #### Video (Entrega 1)
+
+[Ver Video Aquí](https://drive.google.com/file/d/1DL4vf31O-xXQQ9mjYiRDnp1RkY9tU0GB/view?usp=sharing)
