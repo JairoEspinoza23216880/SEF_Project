@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "e2a8e9e73e447950",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa43e375bd4dccc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ced885b11155028",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "957c9dee45fb870c",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fa473f8f5a4cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18af9830df01fff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ad9ca5272fcb35e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89f752d130c50884",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80a2464001be7ca7",
+    "type": "split",
+    "children": [
+      {
+        "id": "de7e49ecbefd86f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e555f52677a66037",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c6d12cb5dbb69e7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21ae8f9d721ec34f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c8a868d8d1d232c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ced885b11155028",
+  "lastOpenFiles": [
+    "Requerimientos/[Diagrama.md",
+    "README.md",
+    "Casos de usos e Historias de Usuario/Casos de usos.pdf",
+    "Requerimientos/[Requerimientos.md",
+    "Requerimientos/Requerimientos No Funcionales.pdf",
+    "Requerimientos/RequerimientosNoFuncionales.pdf.md",
+    "RequerimientosNoFuncionales.pdf.md",
+    "Requerimientos.md",
+    "Requerimientos/Requerimientos.md",
+    "Requerimientos/Requerimientos Funcionales.pdf",
+    "Assets/TuriziminLogo (NBG).png",
+    "Assets",
+    "Nueva carpeta"
+  ]
+}
