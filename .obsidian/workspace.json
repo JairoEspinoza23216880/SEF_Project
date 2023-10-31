@@ -11,11 +11,9 @@
             "id": "5532f7f78037392f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf"
               }
             }
           }
@@ -148,13 +146,15 @@
   },
   "active": "5532f7f78037392f",
   "lastOpenFiles": [
-    "Requerimientos/Requerimientos-F.pdf",
-    "README.md",
     "CasosUso-HistoriasUsuario/HistoriasUsuario.pdf",
+    "Requerimientos/Requerimientos-NF.pdf",
+    "Requerimientos/Requerimientos-F.pdf",
+    "Requerimientos/Requerimientos funcionales ..pdf",
+    "Requerimientos/Diagrama-Requerimientos-NF.pdf",
+    "README.md",
     "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
     "Reuniones/Notas/Historias de Usuario.md",
     "CasosUso-HistoriasUsuario/CasosUso.pdf",
-    "Requerimientos/Diagrama-Requerimientos-NF.pdf",
     "Requerimientos/[Diagrama.md",
     "Casos de usos e Historias de Usuario/Casos de usos.pdf",
     "Requerimientos/[Requerimientos.md",
@@ -165,7 +165,6 @@
     "Requerimientos/Requerimientos.md",
     "Requerimientos/Requerimientos Funcionales.pdf",
     "Assets/TuriziminLogo (NBG).png",
-    "Assets",
-    "Nueva carpeta"
+    "Assets"
   ]
 }
