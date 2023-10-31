@@ -2,7 +2,7 @@
 
 ### Participantes
 - Jairo Gerardo Espinoza Tec
-- José Gaspar 
+- José Gaspar Uh Martín
 - Santiago López Puc
 - Pablo Jonathan Dzul Verde
 

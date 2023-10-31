@@ -11,36 +11,15 @@
             "id": "6b4c4a589cce1c58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ad69326eb64edb7c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a566ec64eba3f9a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
+                "file": "Borradores de Requerimientos No Funcionales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
+                "file": "Borradores de Requerimientos No Funcionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md",
+                "file": "Borradores de Requerimientos No Funcionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Borrador de Requerimientos Funcionales.md"
+                "file": "Borradores de Requerimientos No Funcionales.md"
               }
             }
           }
@@ -167,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a566ec64eba3f9a3",
+  "active": "6b4c4a589cce1c58",
   "lastOpenFiles": [
-    "Borradores de Requerimientos No Funcionales.md",
+    "Historias de Usuario.md",
     "Borrador de Requerimientos Funcionales.md",
+    "Borradores de Requerimientos No Funcionales.md",
     "Descripción del Producto.md",
     "Datos Básicos y Análisis de Factibilidad.md"
   ]

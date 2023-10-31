@@ -7,12 +7,12 @@
 
 *Faltantes:
 - Ariadne Dolores Salazar Mejía (Enferma)
-- José Gaspar
+- José Gaspar Uh Martín
 ### Razón de la Reunión:
 - Revisar los requerimientos del proyecto
 - Plantear las historias de usuario y/o Casos de Uso
 - Realizar la priorización de los requerimientos
-- Enseñar a los miembros a usar Obsidian y Git/Github
+- Enseñar a los miembros a usar Obsidian y Git/GitHub
 
 ### Resumen de la Reunión:
 - Se les explicó a los miembros las nociones básicas de:
