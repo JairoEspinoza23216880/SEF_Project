@@ -1,2 +1,6 @@
-# SEF_Project
-En este repositorio guardaremos todo lo relacionado al trabajo en equipo de la materia de Fundamentos de Ingeniería de Software
+![[TuriziminLogo (NBG).png]]
+[1° Entrega (Completada)](https://github.com/JairoEspinoza23216880/SEF_Project/tree/entrega-1)
+
+[2° Entrega (En Proceso)](https://github.com/JairoEspinoza23216880/SEF_Project/tree/entrega-2)
+
+3° Entrega (Pendiente)
