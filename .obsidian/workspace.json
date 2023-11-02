@@ -11,13 +11,28 @@
             "id": "5532f7f78037392f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea508ba4bcf9ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
+                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
+                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf"
+                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md"
               }
             }
           }
@@ -144,15 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5532f7f78037392f",
+  "active": "1ea508ba4bcf9ce8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
+    "Requerimientos/Requerimientos-F.pdf",
+    "README.md",
+    "Gestión del Desarrollo",
+    "Assets/TuriziminLogoNBG.png",
+    "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
     "CasosUso-HistoriasUsuario/HistoriasUsuario.pdf",
     "Requerimientos/Requerimientos-NF.pdf",
-    "Requerimientos/Requerimientos-F.pdf",
     "Requerimientos/Requerimientos funcionales ..pdf",
     "Requerimientos/Diagrama-Requerimientos-NF.pdf",
-    "README.md",
-    "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
     "Reuniones/Notas/Historias de Usuario.md",
     "CasosUso-HistoriasUsuario/CasosUso.pdf",
     "Requerimientos/[Diagrama.md",
@@ -163,8 +182,6 @@
     "RequerimientosNoFuncionales.pdf.md",
     "Requerimientos.md",
     "Requerimientos/Requerimientos.md",
-    "Requerimientos/Requerimientos Funcionales.pdf",
-    "Assets/TuriziminLogo (NBG).png",
-    "Assets"
+    "Assets/TuriziminLogo (NBG).png"
   ]
 }
