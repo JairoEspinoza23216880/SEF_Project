@@ -159,3 +159,27 @@ Aparecerá la opción de “publicar comentario” al seleccionarlo, el comentar
 
 **Escritura :**
 Se guardarán los datos proporcionados por el usuario y podrá acceder a ellos y editarlos en el momento que lo desee.
+
+
+
+### Requerimientos COULD HAVE
+
+#### *Visualizar Itinerario*
+
+**Entrada :**
+El usuario selecciona un itinerario de una lista o mediante una búsqueda específica.
+
+**Entrada :**
+El sistema recibe la selección del usuario y procede a buscar la información correspondiente (El identificador del itinerario seleccionado).
+
+**Lectura :**
+El sistema consulta la base de datos para obtener los detalles del itinerario seleccionado.
+
+**Lectura :**
+Se recuperan los datos del itinerario, incluyendo paradas, tiempos estimados y otros detalles relevantes (El nombre, la descripción, la duración, las coordenadas, las imágenes y los comentarios del itinerario y sus paradas).
+
+**Salida :**
+El sistema presenta el itinerario en la interfaz gráfica en el formato elegido por el usuario (lista o mapa).
+
+**Salida :**
+Se muestra visualmente el itinerario completo, permitiendo al usuario interactuar con él para obtener más información o modificarlo. (El itinerario y sus paradas con sus respectivos datos).
