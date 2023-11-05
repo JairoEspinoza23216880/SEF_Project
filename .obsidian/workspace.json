@@ -23,16 +23,31 @@
             "id": "1ea508ba4bcf9ce8",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Diseño/Diseño Arquitectónico.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "da1e71658e6522c3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
+                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
+                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
+                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gestión del Desarrollo/Cosmic Definición de Funciones.md"
+                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md"
               }
             }
           }
@@ -159,10 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ea508ba4bcf9ce8",
+  "active": "da1e71658e6522c3",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Reuniones/Rúbricas/RúbricaReunión_09-27-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_09-26-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_09-22-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md",
+    "Diseño/Diseño Arquitectónico.canvas",
     "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
+    "Diseño",
     "README.md",
     "Requerimientos/Requerimientos-F.pdf",
     "Gestión del Desarrollo",
@@ -177,7 +198,6 @@
     "Requerimientos/[Diagrama.md",
     "Casos de usos e Historias de Usuario/Casos de usos.pdf",
     "Requerimientos/[Requerimientos.md",
-    "Requerimientos/Requerimientos No Funcionales.pdf",
     "Requerimientos/RequerimientosNoFuncionales.pdf.md",
     "RequerimientosNoFuncionales.pdf.md",
     "Requerimientos.md",
