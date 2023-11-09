@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3812512a5451d2ab",
+        "id": "faf8c80270b51ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "5532f7f78037392f",
+            "id": "06ed7ba67bca52d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,36 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1ea508ba4bcf9ce8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Diseño/Diseño Arquitectónico.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "da1e71658e6522c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da1e71658e6522c3",
+  "active": "06ed7ba67bca52d7",
   "lastOpenFiles": [
-    "Reuniones/Rúbricas/RúbricaReunión_09-27-23.md",
+    "README.md",
+    "Diseño/Diseño Arquitectónico.canvas",
     "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_09-27-23.md",
     "Reuniones/Rúbricas/RúbricaReunión_09-26-23.md",
     "Reuniones/Rúbricas/RúbricaReunión_09-22-23.md",
     "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md",
-    "Diseño/Diseño Arquitectónico.canvas",
     "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
     "Diseño",
-    "README.md",
     "Requerimientos/Requerimientos-F.pdf",
     "Gestión del Desarrollo",
     "Assets/TuriziminLogoNBG.png",
