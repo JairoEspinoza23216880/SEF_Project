@@ -19,6 +19,3 @@
 ### Pendientes para la próxima Reunión
 - Corroboración de todo lo creado
 - Entrega de la redacción Formal de los artefactos
-
-##### Próxima Reunión
-- **Fecha:** Viernes 29 de Septiembre 2023

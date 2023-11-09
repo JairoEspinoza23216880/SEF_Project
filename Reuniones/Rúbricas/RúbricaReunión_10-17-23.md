@@ -1,4 +1,4 @@
-**Fecha:** Miércoles 27 de Septiembre de 2023
+**Fecha:** Martes 17 de Octubre de 2023
 
 ### Participantes
 - Jairo Gerardo Espinoza Tec
@@ -7,18 +7,18 @@
 - Ariadne Dolores Salazar Mejía
 - José Gaspar Uh Martín
 ### Razón de la Reunión:
-- Última revisión de Requerimientos
-- Creación de Casos de Uso/Historias de Usuario
-- Definición de Roles para creación de Artefactos
+- Definir Roles para la creación de los diseños
+	- Arquitectónico
+	- Datos
+	- Componentes
+	- UI/UX
 
 ### Resumen de la Reunión:
-- Se revisó que los requerimientos estuvieran completos
-- Se crearon las Historias de Usuario
-- Se definieron roles para la redacción formal y pulimiento de los artefactos
+- Se definieron los roles para los diseños
+- Se produjeron las bases para el UI
 
 ### Pendientes para la próxima Reunión
-- Corroboración de todo lo creado
-- Entrega de la redacción Formal de los artefactos
+- Actualización de la creación de los diseños
 
 ##### Próxima Reunión
-- **Fecha:** Viernes 29 de Septiembre 2023
+- **Fecha:** Martes 31 de Octubre 2023
