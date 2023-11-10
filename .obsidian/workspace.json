@@ -1,18 +1,14 @@
 {
   "main": {
-    "id": "e2a8e9e73e447950",
+    "id": "e9b65fb710d92ed9",
     "type": "split",
     "children": [
       {
-        "id": "faf8c80270b51ebe",
+        "id": "470435a5fecf6a08",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "da1e71658e6522c3",
-=======
-            "id": "06ed7ba67bca52d7",
->>>>>>> 1648b8bb392f099a3cba718e9386fdacb2bb3937
+            "id": "43113893bda928b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "957c9dee45fb870c",
+    "id": "7eb8ea9eb64d67f1",
     "type": "split",
     "children": [
       {
-        "id": "25fa473f8f5a4cdc",
+        "id": "927cce6f70881320",
         "type": "tabs",
         "children": [
           {
-            "id": "a18af9830df01fff",
+            "id": "bf533cb32d4ae4f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "5ad9ca5272fcb35e",
+            "id": "71cf8c7ae38d0ff4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "89f752d130c50884",
+            "id": "c1edda0ee849be3c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "80a2464001be7ca7",
+    "id": "97ec2ed2637a941d",
     "type": "split",
     "children": [
       {
-        "id": "de7e49ecbefd86f1",
+        "id": "9b6a29634539773c",
         "type": "tabs",
         "children": [
           {
-            "id": "e555f52677a66037",
+            "id": "8bb0ca5db13a93c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -101,7 +97,7 @@
             }
           },
           {
-            "id": "c6d12cb5dbb69e7e",
+            "id": "d5a30a098fd5a6d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -113,7 +109,7 @@
             }
           },
           {
-            "id": "21ae8f9d721ec34f",
+            "id": "aa312d60c4038582",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,7 +120,7 @@
             }
           },
           {
-            "id": "6c8a868d8d1d232c",
+            "id": "1f1cd4c273f41e87",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -150,42 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06ed7ba67bca52d7",
+  "active": "43113893bda928b1",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Reuniones/Rúbricas/RúbricaReunión_10-31-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_09-27-23.md",
-    "README.md",
-    "Diseño/Diseño Arquitectónico.canvas",
-=======
-    "README.md",
-    "Diseño/Diseño Arquitectónico.canvas",
-    "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_09-27-23.md",
->>>>>>> 1648b8bb392f099a3cba718e9386fdacb2bb3937
-    "Reuniones/Rúbricas/RúbricaReunión_09-26-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_09-22-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md",
     "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
-    "Diseño",
-    "Requerimientos/Requerimientos-F.pdf",
-    "Gestión del Desarrollo",
-    "Assets/TuriziminLogoNBG.png",
-    "CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
-    "CasosUso-HistoriasUsuario/HistoriasUsuario.pdf",
+    "Gestión del Desarrollo/Cálculo de CPE (Coste-Plazos-Esfuerzo).md",
     "Requerimientos/Requerimientos-NF.pdf",
-    "Requerimientos/Requerimientos funcionales ..pdf",
-    "Requerimientos/Diagrama-Requerimientos-NF.pdf",
-    "Reuniones/Notas/Historias de Usuario.md",
-    "CasosUso-HistoriasUsuario/CasosUso.pdf",
-    "Requerimientos/[Diagrama.md",
-    "Casos de usos e Historias de Usuario/Casos de usos.pdf",
-    "Requerimientos/[Requerimientos.md",
-    "Requerimientos/RequerimientosNoFuncionales.pdf.md",
-    "RequerimientosNoFuncionales.pdf.md",
-    "Requerimientos.md",
-    "Requerimientos/Requerimientos.md",
-    "Assets/TuriziminLogo (NBG).png"
+    "Requerimientos/Requerimientos-F.pdf",
+    "Diseño/Diseño Arquitectónico.canvas",
+    "README.md",
+    "Reuniones/Rúbricas.md",
+    "().md",
+    "Reuniones/Rúbricas/RúbricaReunión_11-07-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_10-31-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md"
   ]
 }

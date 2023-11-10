@@ -15,3 +15,6 @@
 ### Pendientes para la próxima Reunión
 - Entrega de los prototipos de Diseños
 - Revisión de las correcciones
+
+##### Próxima Reunión
+- **Fecha:** Martes 7 de Noviembre 2023

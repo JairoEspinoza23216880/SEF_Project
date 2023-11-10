@@ -116,49 +116,49 @@
 #### *Registro de Usuario*
 
 **Entrada :**
-El usuario accede a la aplicación.
+	El usuario accede a la aplicación.
 
 **Entrada :**
-En la pantalla aparecerá que proporcione los datos para completar el registro, además también aparecerá una opción que diga “continuar sin registro” en dado caso de que quiera omitir esto.
+	En la pantalla aparecerá que proporcione los datos para completar el registro, además también aparecerá una opción que diga “continuar sin registro” en dado caso de que quiera omitir esto.
 
 **Lectura :**
-Si el usuario elige registrarse deberá proporcionar los datos personales que se le soliciten como nombre, correo electrónico, etc.
+	Si el usuario elige registrarse deberá proporcionar los datos personales que se le soliciten como nombre, correo electrónico, etc.
 
 **Lectura :**
-En caso de que el usuario continúe sin registro solo se le permitirá el acceso a generar itinerarios y no podrá acceder a las demás funciones.
+	En caso de que el usuario continúe sin registro solo se le permitirá el acceso a generar itinerarios y no podrá acceder a las demás funciones.
 
 **Salida :**
-Se le solicitara al usuario que genere una contraseña para acceder a la cuenta y terminar el registro.
+	Se le solicitara al usuario que genere una contraseña para acceder a la cuenta y terminar el registro.
 
 **Salida :**
-Se le solicita que elija un método para en caso de que olvide su contraseña pueda recuperar la cuenta.
+	Se le solicita que elija un método para en caso de que olvide su contraseña pueda recuperar la cuenta.
 
 **Escritura :**
-Se almacenarán los datos proporcionados por el cliente, su nombre de usuario y contraseña en la base de datos de la aplicación.
+	Se almacenarán los datos proporcionados por el cliente, su nombre de usuario y contraseña en la base de datos de la aplicación.
 
 
 #### *Calificación de Sitios*
 
 **Entrada :**
-En el menú de opciones, el usuario seleccionara el apartado de calificación de sitios 
+	En el menú de opciones, el usuario seleccionara el apartado de calificación de sitios 
 
 **Entrada :**
-El usuario podrá buscar o elegir un sitio de su interés.
+	El usuario podrá buscar o elegir un sitio de su interés.
 
 **Entrada :**
-Al seleccionarlo aparecerá información del lugar, así como comentarios de otros usuarios y su calificación.
+	Al seleccionarlo aparecerá información del lugar, así como comentarios de otros usuarios y su calificación.
 
 **Lectura :**
-Ahí mismo aparecerá un apartado donde el usuario podrá comentar su opinión sobre el sitio y calificarlo con estrellas en una escala del 1 al 5 (Puede mejorar, regular, bueno, muy bueno, excelente).
+	Ahí mismo aparecerá un apartado donde el usuario podrá comentar su opinión sobre el sitio y calificarlo con estrellas en una escala del 1 al 5 (Puede mejorar, regular, bueno, muy bueno, excelente).
 
 **Lectura :**
-Si el usuario es dueño de algún sitio de interés (como restaurantes u hoteles) también aparecerán opciones que le permitan editar la descripción de su sitio.
+	Si el usuario es dueño de algún sitio de interés (como restaurantes u hoteles) también aparecerán opciones que le permitan editar la descripción de su sitio.
 
 **Salida :**
-Aparecerá la opción de “publicar comentario” al seleccionarlo, el comentario y la calificación del usuario serán público y los demás usuarios que accedan al sitio también podrán verlo.
+	Aparecerá la opción de “publicar comentario” al seleccionarlo, el comentario y la calificación del usuario serán público y los demás usuarios que accedan al sitio también podrán verlo.
 
 **Escritura :**
-Se guardarán los datos proporcionados por el usuario y podrá acceder a ellos y editarlos en el momento que lo desee.
+	Se guardarán los datos proporcionados por el usuario y podrá acceder a ellos y editarlos en el momento que lo desee.
 
 
 
@@ -167,19 +167,19 @@ Se guardarán los datos proporcionados por el usuario y podrá acceder a ellos y
 #### *Visualizar Itinerario*
 
 **Entrada :**
-El usuario selecciona un itinerario de una lista o mediante una búsqueda específica.
+	El usuario selecciona un itinerario de una lista o mediante una búsqueda específica.
 
 **Entrada :**
-El sistema recibe la selección del usuario y procede a buscar la información correspondiente (El identificador del itinerario seleccionado).
+	El sistema recibe la selección del usuario y procede a buscar la información correspondiente (El identificador del itinerario seleccionado).
 
 **Lectura :**
-El sistema consulta la base de datos para obtener los detalles del itinerario seleccionado.
+	El sistema consulta la base de datos para obtener los detalles del itinerario seleccionado.
 
 **Lectura :**
-Se recuperan los datos del itinerario, incluyendo paradas, tiempos estimados y otros detalles relevantes (El nombre, la descripción, la duración, las coordenadas, las imágenes y los comentarios del itinerario y sus paradas).
+	Se recuperan los datos del itinerario, incluyendo paradas, tiempos estimados y otros detalles relevantes (El nombre, la descripción, la duración, las coordenadas, las imágenes y los comentarios del itinerario y sus paradas).
 
 **Salida :**
-El sistema presenta el itinerario en la interfaz gráfica en el formato elegido por el usuario (lista o mapa).
+	El sistema presenta el itinerario en la interfaz gráfica en el formato elegido por el usuario (lista o mapa).
 
 **Salida :**
-Se muestra visualmente el itinerario completo, permitiendo al usuario interactuar con él para obtener más información o modificarlo. (El itinerario y sus paradas con sus respectivos datos).
+	Se muestra visualmente el itinerario completo, permitiendo al usuario interactuar con él para obtener más información o modificarlo. (El itinerario y sus paradas con sus respectivos datos).
