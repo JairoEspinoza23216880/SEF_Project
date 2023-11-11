@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "470435a5fecf6a08",
+        "id": "480f16d0f9f2c40e",
         "type": "tabs",
         "children": [
           {
-            "id": "43113893bda928b1",
+            "id": "890beb4fcb5b0d50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,18 +138,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43113893bda928b1",
+  "active": "890beb4fcb5b0d50",
   "lastOpenFiles": [
-    "Gestión del Desarrollo/Cosmic Definición de Funciones.md",
-    "Gestión del Desarrollo/Cálculo de CPE (Coste-Plazos-Esfuerzo).md",
-    "Requerimientos/Requerimientos-NF.pdf",
-    "Requerimientos/Requerimientos-F.pdf",
-    "Diseño/Diseño Arquitectónico.canvas",
     "README.md",
+    "Gestión/Proyecto/MCI.md",
+    "Requerimientos/Requerimientos-F.md",
+    "Requerimientos/Requerimientos-NF.md",
+    "Assets/TuriziminLogoNBG.png",
+    "Gestión/Proyecto/ProyectoTurizimín.png",
+    "Gestión/Desarrollo/Cosmic_DF.md",
+    "Gestión/Proyecto/Proyecto Turizimín.gan",
+    "Gestión/Desarrollo/Calculo_CPE.pdf",
+    "Gestión/Desarrollo/Calculo_CPE.md",
+    "Gestión/Gestión del Desarrollo/Cálculo de CPE (Coste-Plazos-Esfuerzo).md",
+    "Requerimientos/Diagrama-Requerimientos-NF.pdf",
+    "Requerimientos/CasosUso-HistoriasUsuario/HistoriasUsuario.pdf",
+    "Requerimientos/CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
+    "Requerimientos/Requerimientos-F.pdf",
+    "Requerimientos/Requerimientos-NF.pdf",
+    "Reuniones/Rúbricas/RúbricaReunión_10-31-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_11-07-23.md",
+    "Gestión/Proyecto",
+    "Gestión/Desarrollo",
+    "Diseño/Diseño Arquitectónico.canvas",
     "Reuniones/Rúbricas.md",
     "().md",
-    "Reuniones/Rúbricas/RúbricaReunión_11-07-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_10-31-23.md",
     "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md",
     "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md"
   ]

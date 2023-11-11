@@ -1,0 +1,195 @@
+# Definición de Funciones (RF)
+
+
+## Requerimientos MUST HAVE
+
+#### *Itinerario de IA*
+
+**Entrada :**
+	El Usuario ingresa el formulario de preferencias, tiempos y presupuesto que le servirán a la IA para generar el itinerario.
+
+**Escritura :**
+	El sistema guarda los datos del formulario del usuario dentro de la Database.
+
+**Lectura :**
+	El sistema revisa la información guardada para que la IA pueda procesarla.
+
+**Escritura :**
+	El sistema almacena el itinerario resultante de forma temporal, en espera de que el usuario confirme el guardado o no.
+
+**Salida :**
+	El sistema devuelve al usuario el itinerario para que pueda visualizarlo.
+
+**Entrada :**
+	El usuario solicita guardar el archivo.
+
+**Escritura :**
+	El sistema escribe el archivo en el sistema.
+
+#### *Visitar Páginas de Sitios de Interés*
+
+**Entrada :**
+	El usuario solicita el ingreso a la sección de páginas de sitios.
+
+**Lectura :**
+	El sistema revisa las preferencias guardadas del usuario para usarlas al buscar sitios.
+
+**Lectura :**
+	El sistema accede a la información guardada de todos los lugares que se han registrado en la aplicación con base a las preferencias del usuario.
+
+**Salida :**
+	El sistema devuelve al usuario los resultados de su búsqueda.
+
+**Entrada :**
+	El usuario solicita ingresar a un sitio en específico.
+
+**Lectura :**
+	El sistema accede a la información de ese sitio específico.
+
+**Salida :**
+	El sistema devuelve al usuario la información del sitio específico.
+
+#### *Creación de Páginas de Sitios*
+
+**Entrada :**
+	El usuario solicita la creación de una página.
+
+**Lectura :**
+	El sistema revisa si el usuario está registrado como usuario en la Database.
+
+**Entrada :**
+	El usuario ingresa todos los datos del sitio que desea agregar.
+
+**Escritura :**
+	El sistema introduce los datos del sitio del usuario dentro de la Database.
+
+**Salida :**
+	El sistema devuelve al usuario su página creada.
+
+
+## Requerimientos SHOULD HAVE
+
+#### *Edición de Itinerarios*
+
+**Entrada :**
+	El usuario indica que itinerario va a editar.
+
+**Lectura :**
+	El sistema accede al itinerario almacenado.
+
+**Salida :**
+	El sistema muestra al usuario el itinerario en modo edición.
+
+**Entrada :**
+	El usuario introduce los cambios que desea.
+
+**Escritura :**
+	El sistema modifica el archivo con los cambios que el usuario introdujo.
+
+#### *Registro de Usuario*
+
+**Entrada :**
+	El usuario accede a la aplicación.
+
+**Entrada :**
+	En la pantalla aparecerá que proporcione los datos para completar el registro, además también aparecerá una opción que diga “continuar sin registro” en dado caso de que quiera omitir esto.
+
+**Lectura :**
+	Si el usuario elige registrarse deberá proporcionar los datos personales que se le soliciten como nombre, correo electrónico, etc.
+
+**Lectura :**
+	En caso de que el usuario continúe sin registro solo se le permitirá el acceso a generar itinerarios y no podrá acceder a las demás funciones.
+
+**Salida :**
+	Se le solicitara al usuario que genere una contraseña para acceder a la cuenta y terminar el registro.
+
+**Salida :**
+	Se le solicita que elija un método para en caso de que olvide su contraseña pueda recuperar la cuenta.
+
+**Escritura :**
+	Se almacenarán los datos proporcionados por el cliente, su nombre de usuario y contraseña en la base de datos de la aplicación.
+
+#### *Verificación de Empresas/propietario*
+
+**Entrada :**
+	El propietario/empresario inicia el proceso de verificación de su negocio al hacer.
+
+**Lectura :**
+	El propietario/empresario proporciona sus datos personales, como nombre, dirección, número de identificación. 
+
+**Entrada :**
+	El usuario adjunta documentos que verifique su propiedad para si poder ser verificado.
+
+**Salida :**
+	La aplicación redirige al empresario/propietario para completar el proceso de verificación.
+
+**Escritura :**
+	Los datos verificados y aprobados se almacenan en un medio de almacenamiento.
+
+#### *Calificación de Sitios*
+
+**Entrada :**
+	En el menú de opciones, el usuario seleccionara el apartado de calificación de sitios 
+
+**Entrada :**
+	El usuario podrá buscar o elegir un sitio de su interés.
+
+**Entrada :**
+	Al seleccionarlo aparecerá información del lugar, así como comentarios de otros usuarios y su calificación.
+
+**Lectura :**
+	Ahí mismo aparecerá un apartado donde el usuario podrá comentar su opinión sobre el sitio y calificarlo con estrellas en una escala del 1 al 5 (Puede mejorar, regular, bueno, muy bueno, excelente).
+
+**Lectura :**
+	Si el usuario es dueño de algún sitio de interés (como restaurantes u hoteles) también aparecerán opciones que le permitan editar la descripción de su sitio.
+
+**Salida :**
+	Aparecerá la opción de “publicar comentario” al seleccionarlo, el comentario y la calificación del usuario serán público y los demás usuarios que accedan al sitio también podrán verlo.
+
+**Escritura :**
+	Se guardarán los datos proporcionados por el usuario y podrá acceder a ellos y editarlos en el momento que lo desee.
+
+
+## Requerimientos COULD HAVE
+
+#### *Acceso a la herramienta Google Maps*
+
+**Entrada :**
+	Los datos de entrada pueden incluir la ubicación actual del usuario, el destino seleccionado y cualquier punto de partida adicional si el usuario lo especifica e incluir su medio de transporte, como puede ser un coche o que tal vez esté utilizando el transporte público por ejemplo.
+
+**Salida :**
+	La salida será la información generada por Google Maps que es referente a que genere una ruta en base a su punto de partida hasta su ubicación e incluir el mapa con la ruta trazada.
+
+**Lectura :**
+	El usuario especifica la ubicación actual o lo detecta el GPS, el destino y otros detalles como lo puede ser su movilidad o vehículo que esté utilizando.
+
+**Escritura :**
+	Los datos que se presentaran será la información de la ruta y el tiempo estimado de viaje que se obtiene de Google Maps. Estos datos se muestran al usuario en la interfaz de usuario.
+
+#### *Exportación de Itinerarios*
+
+**Entrada :**
+	El usuario solicita la función de exportación de un itinerario.
+
+**Lectura :**
+	El sistema lee los datos del itinerario a exportar.
+
+**Salida :**
+	El sistema devuelve el itinerario al usuario para confirmar.
+
+**Entrada :**
+	El usuario indica la forma y dirección donde se enviará el itinerario.
+
+**Salida :**
+	El sistema envía el itinerario.
+
+#### *Identificación de las Preferencias de Usuario *
+
+**Escritura :**
+	El sistema registra los datos de los formularios de IA.
+
+**Escritura :**
+	El sistema registra los datos de los sitios que visita el usuario.
+
+**Lectura :**
+	A la hora de generar recomendaciones de sitios o crear los itinerarios con IA el sistema lee los datos para procesarlos e identificar las preferencias de usuario para darles preferencia.

@@ -1,5 +1,6 @@
 {
   "showInlineTitle": false,
   "livePreview": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
 }
