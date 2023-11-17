@@ -10,4 +10,5 @@
 **Documentos:**
 
 [Investigación](/Investigación.md)
+
 [Infografía](/IS.pdf)
