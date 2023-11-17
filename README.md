@@ -1,6 +1,13 @@
 ![Logo Turizimín](/Assets/TuriziminLogoNBG.png)
-[1° Entrega (Completada)](https://github.com/JairoEspinoza23216880/SEF_Project/tree/entrega-1)
+**Integrantes de la Entrega:**
 
-[2° Entrega (En Proceso)](https://github.com/JairoEspinoza23216880/SEF_Project/tree/entrega-2)
+- Jairo Gerardo Espinoza Tec
+- Ariadne Dolores Salazar Mejía
+- José Gaspar Uh Martin
+- Santiago López Puc
+- Pablo Jonathan Dzul Verde
 
-3° Entrega (Pendiente)
+**Documentos:**
+
+[Investigación](/Investigación.md)
+[Infografía](/IS.pdf)
