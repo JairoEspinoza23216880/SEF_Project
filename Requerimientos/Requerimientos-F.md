@@ -20,7 +20,7 @@
 - El sistema debe proveer una funcionalidad de registro de usuario que le permita al usuario crear una cuenta personalizada con la que pueda acceder a todas las funciones del programa, incluyendo la posibilidad de compartir el itinerario generado. En caso de que el usuario no se registre, el sistema debe permitirle acceder únicamente al generador de itinerarios.
 
 #### Verificación de Empresa/Propietario
-- El sistema debe proveer una funcionalidad de verificación de empresa/propietario que le permita al usuario verificar su identidad como propietario de un negocio o sitio. El sistema debe re direccionar al usuario a un sistema externo donde podrá llenar sus datos personales y adjuntar los documentos que acrediten su propiedad.
+- El sistema debe proveer una funcionalidad de verificación de empresa/propietario que le permita al usuario verificar su identidad como propietario de un negocio o sitio. El sistema debe redireccionar al usuario a un sistema externo donde podrá llenar sus datos personales y adjuntar los documentos que acrediten su propiedad.
 
 #### Calificación de Sitios
 - El sistema debe proveer una funcionalidad de calificación de sitios que le permita al usuario calificar los lugares que ha visitado en una escala del 1 al 5, con la opción de dejar un comentario. El sistema debe mostrarle al usuario las calificaciones y comentarios promedio de cada lugar.
@@ -28,7 +28,7 @@
 ### <span style="color:green; font-weight:bold">Must Have</span>
 
 #### Acceso a la herramienta Google Maps:
-- El sistema debe proveer una funcionalidad de acceso a la herramienta Google Maps que le permita al usuario obtener indicaciones para llegar al destino seleccionado desde su ubicación actual o desde cualquier otro punto de partida. El sistema debe mostrarle al usuario el mapa con la ruta trazada y el tiempo estimado de viaje.
+- El sistema debe proveer una funcionalidad de acceso a la herramienta Google Maps que le permita al usuario obtener información extra sobre el sitio que planea visitar, así también el empresario debe poder usar la herramienta para confirmar la propiedad del sitio.
 
 #### Exportación de Itinerarios:
 - El sistema debe ofrecerle al usuario la opción de compartir el itinerario guardado con otros usuarios a través de redes sociales o correo electrónico.

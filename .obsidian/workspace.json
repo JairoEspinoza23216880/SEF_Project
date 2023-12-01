@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "480f16d0f9f2c40e",
+        "id": "ab56e64ae57c4ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "890beb4fcb5b0d50",
+            "id": "31de4d0936d80a8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -130,40 +138,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "890beb4fcb5b0d50",
+  "active": "31de4d0936d80a8d",
   "lastOpenFiles": [
+    "Requerimientos/CasosUso-HistoriasUsuario/HistoriasUsuario.pdf",
     "README.md",
-    "Gestión/Proyecto/MCI.md",
-    "Requerimientos/Requerimientos-F.md",
+    "Requerimientos/CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
     "Requerimientos/Requerimientos-NF.md",
-    "Assets/TuriziminLogoNBG.png",
+    "Requerimientos/Requerimientos-F.md",
+    "Requerimientos/Diagrama-Requerimientos-NF.pdf",
+    "Requerimientos/Diagrama-Requerimientos-NF.md",
+    "Gestión/Proyecto/MCI.md",
     "Gestión/Proyecto/ProyectoTurizimín.png",
     "Gestión/Desarrollo/Cosmic_DF.md",
-    "Gestión/Proyecto/Proyecto Turizimín.gan",
     "Gestión/Desarrollo/Calculo_CPE.pdf",
+    "Reuniones/Rúbricas/RúbricaReunión_11-30-23_FUGAZ.md",
+    "Reuniones/Rúbricas/RúbricaReunión_11-21-23.md",
+    "Reuniones/Notas/Descripción del Producto.md",
+    "Reuniones/Notas/Datos Básicos y Análisis de Factibilidad.md",
+    "Reuniones/Notas/Historias de Usuario.md",
+    "Reuniones/Notas/Borradores de Requerimientos No Funcionales.md",
+    "Reuniones/Notas/Borrador de Requerimientos Funcionales.md",
+    "Reuniones/Rúbricas/RúbricaReunión_11-07-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md",
+    "Reuniones/Rúbricas/RúbricaReunión_10-31-23.md",
+    "Assets/TuriziminLogoNBG.png",
+    "Gestión/Proyecto/Proyecto Turizimín.gan",
     "Gestión/Desarrollo/Calculo_CPE.md",
     "Gestión/Gestión del Desarrollo/Cálculo de CPE (Coste-Plazos-Esfuerzo).md",
-    "Requerimientos/Diagrama-Requerimientos-NF.pdf",
-    "Requerimientos/CasosUso-HistoriasUsuario/HistoriasUsuario.pdf",
-    "Requerimientos/CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf",
     "Requerimientos/Requerimientos-F.pdf",
     "Requerimientos/Requerimientos-NF.pdf",
-    "Reuniones/Rúbricas/RúbricaReunión_10-31-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_11-07-23.md",
     "Gestión/Proyecto",
     "Gestión/Desarrollo",
     "Diseño/Diseño Arquitectónico.canvas",
     "Reuniones/Rúbricas.md",
     "().md",
-    "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md",
-    "Reuniones/Rúbricas/RúbricaReunión_10-17-23.md"
+    "Reuniones/Rúbricas/RúbricaReunión_09-19-23.md"
   ]
 }

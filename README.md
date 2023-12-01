@@ -1,85 +1,102 @@
-# Proyecto de la Materia de Fundamentos de Ingeniería de Software
-## *Segunda Entrega*
+# Project of the subject Fundamentals of Software Engineering
+## *Final Delivery*
 ![Logo Turizimin](/Assets/TuriziminLogoNBG.png)
-#### Equipo:
+#### Develop Team:
 - Jairo Gerardo Espinoza Tec
 - Ariadne Dolores Salazar Mejía
 - José Gaspar Uh Martin
 - Santiago López Puc
 - Pablo Jonathan Dzul Verde
 
-### Evolución del Producto
+### Introduction
+*Vacations are a time of fun and relaxation, so why is planning them so tedious?*
+Under that question, "Turizimín" was born, a project that seeks to use the power of Artificial Intelligence to create the perfect itinerary for an ideal vacation.
 
-Con respecto a la entrega anterior se realizaron varios cambios, principalmente se añadieron los diseños básicos y prototipos del producto final, además de incluir elementos de gestión del proyecto mas avanzada, principalmente enfocándose en planeación y calendarización del mismo incluyendo además la estimación de costes, plazos y esfuerzo.
-También se hicieron ajustes en ciertos elementos de la entrega anterior relacionados a los requerimientos, corrigiendo ambigüedades y redactándolas de forma más clara.
-##### Requerimientos
-[Requerimientos Funcionales](/Requerimientos/Requerimientos-F.md)
-[Requerimientos No Funcionales](/Requerimientos/Requerimientos-NF.md)
+### Users
+The potential users contemplating the project are mainly:
 
-Como final, se cambió de Formato PDF a MD varios documentos de requerimientos para facilitar la edición de los archivos.
+***Primary***
+- Tourists and travelers from all over the world who seek to optimize their trips
+- Travel services or schools that organize trips
+***Secondary***
+- Companies or sites of interest that want to promote themselves
+
+### Innovation
+What differentiates Turizimín from other similar Apps/Websites? Well, although there are hundreds of other services that allow you to create itineraries, few of them really automate the process to make it easier for the user to design their trip in a really simple way, with Turizimín we also seek to improve user-AI communication so that the result is the most accurate possible without the user having to make complex descriptions to the system
+
+### Product Evolution
+
+Initially, the development team defined the Functional and Non-Functional Requirements, taking them as a basis, the team proceeded to create the Use Cases and User Stories. We also decided to use Kanban as our agile methodology due to its flexibility and its basis in continuous work but limited, which together allows us to work even faster and more freely than with other agile methodologies such as Scrum.
+During the second stage, several elements of this were designed, culminating in the beginning of the construction of a low-fidelity prototype in Figma.
+For the third stage, the focus was on completing a more advanced prototype to subsequently carry out tests with it to ensure its quality and compliance with the established requirements.
+As umbrella activities, in each delivery we review (and rewrite if necessary) the requirements and other artifacts to ensure their quality.
+
+### Requirements
+
+#### Final Version
+- [Functional Requirements](/Requerimientos/Requerimientos-F.md)
+- [Non-Functional Requirements](/Requerimientos/Requerimientos-NF.md)
+- [Non-Functional Requirements Diagram](/Requerimientos/Diagrama-Requerimientos-NF.pdf)
+
+- [Use Cases](/Requerimientos/CasosUso-HistoriasUsuario/DiagramaCasosUso.pdf)
+- [User Stories](/Requerimientos/CasosUso-HistoriasUsuario/HistoriasUsuario.pdf)
+
+### Design and Prototyping
+
+The project prototype was designed in the website Figma, in this stage it was improved to be more advanced and in line with the requirements
+
+- [Figma Prototype](https://www.figma.com/file/00RXg2EyQQ8lPie4g8X1Pg/Turizim%C3%ADn?type=design&node-id=0%3A1&mode=design&t=WUl0pipkpNwVMItN-1)
+
+### Process
+
+##### Develop Management
+
+In the second stage we make estimates of costs, time and effort using COSMIC, we use this algorithmic model due to its relative ease of application and precision in this specific situation compared to models like COCOMO or expert based.
+
+[Defining functions with COSMIC](/Gestión/Desarrollo/Cosmic_DF.md)
+[Calculation of costs, time and effort](/Gestión/Desarrollo/Calculo_CPE.pdf)
+
+##### Work Management
+
+For better team management we use Trello boards to define roles, tasks and due dates, we also use GanttProject to create Gantt charts to organize the latest on a timeline and thus have a visual way to see delivery times, Finally, we created rubrics for the meetings where we recorded all the information discussed in them.
+
+[Access to Trello](https://trello.com/w/proyectoturizimin/home)
+[Gantt Chart](/Gestión/Proyecto/ProyectoTurizimín.png)
+
+#### Competencies
+
+##### Generic
+- *Communicates in Spanish orally and in writing in his professional interventions and his personal life using the language correctly*
+
+	We applied this competence when making the delivery video of stage 1 and 2, as well as when writing the script of that presentations.
+
+- *Uses ICT in their professional interventions and their personal life in a pertinent and responsible manner.*
+
+	To carry out all the parts of this delivery we apply several ICT tools, from Markdown text editors like Obsidian to design and prototyping websites like Figma.
+
+- *Manage knowledge in your professional interventions and in your personal life, in a pertinent manner.*
+
+	We apply what we learned in the course during the development of the project, from requirement engineer to software project management topics, interface design (FrontEnd), cost and work calculation, etc.
+
+- *Make decisions in your professional and personal practice, responsibly.*
+
+	It is demonstrated throughout the entire development, when deciding from job roles based on skills to time management to deliver on time without exaggerating the workload.
+
+##### Specific
+
+- *Analyzes the main methods, techniques, procedures and good practices used in the software requirements, design, coding, testing and maintenance phases, in accordance with the body of knowledge recognized by the discipline.*
+
+	During the project we apply the knowledge acquired during the semester, from requirements engineering, the different branches of design, development life cycle models, testing techniques, among other knowledge of the discipline.
+
+- *Select the Software Life Cycle Model at the beginning of a project, based on the characteristics of the development team, the client and the problem.*
+
+	During the project we decided on the ideal life cycle model for it (which is the Waterfall Model combined with certain aspects of Evolutionary Prototyping) based on its characteristics.
+
+- *Analyzes the main methods, techniques, procedures, and good practices used in the estimation, planning, monitoring, control, quality, and software configuration processes, in accordance with the body of knowledge recognized by the discipline.*
+
+	In the project we apply several methods and processes to plan the work and make cost and effort estimates.
 
 
-#### Diseño
+#### Video (Third Delivery)
 
-Se empezó con el diseño de la interfaz, usando la Web-app de Figma para crear el prototipo del proyecto, para realizarlos se tomaron en cuenta los requerimientos actualizados.
-
-[Diseño en Figma](https://www.figma.com/file/00RXg2EyQQ8lPie4g8X1Pg/Turizim%C3%ADn?type=design&node-id=0%3A1&mode=design&t=WUl0pipkpNwVMItN-1)
-
-
-#### Proceso
-
-##### Gestión del Desarrollo
-
-Se realizó la estimación de costos-plazos-esfuerzos, para eso se definieron primero las funciones en base a COSMIC para luego realizar los cálculos utilizando otros modelos algoritimicos como IFPUG-UFP, se prefirió estos a los demás ya que son mas fáciles de aplicar y mas seguros en este caso que por ejemplo los métodos con expertos, ya que el equipo no cuenta con conocedores del campo del software a desarrollar por lo que nuestras estimaciones pueden ser más erradas; también se descartó COCOMO debido a que no podemos estimar claramente la cantidad de líneas de código necesarias, de nuevo por la falta de experiencia en proyectos de esta índole.
-
-[Definición de Funciones con COSMIC](/Gestión/Desarrollo/Cosmic_DF.md)
-[Cálculo CPE (Coste, Plazo, Esfuerzo)](/Gestión/Desarrollo/Calculo_CPE.pdf)
-
-##### Gestión del Trabajo
-
-Para gestionar de mejor manera el proyecto durante este periodo hemos incorporado el uso de un Trello para definir tareas y roles para las mismas, así como fechas de entrega.
-
-[Acceso al Trello](https://trello.com/w/proyectoturizimin/home)
-[Diagrama de Gantt](/Gestión/Proyecto/ProyectoTurizimín.png)
-
-Se continuaron usando rúbricas para registrar las reuniones **(Disponibles en la carpeta /Reuniones/Rúbricas)** y se añadió la Métrica de Contribución Individual para valorar de mejor forma el trabajo de cada integrante del equipo de trabajo
-
-[Métrica de Contribución Individual](/Gestión/Proyecto/MCI.md)
-
-#### Competencias
-
-##### Genéricas
-- *Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma.*
-
-	Aplicamos esta competencia al hacer el video de entrega, así como cuando se redactó el guion y este mismo documento.
-
-- *Usa las TIC en sus intervenciones profesionales y en su vida personal de manera pertinente y responsable.*
-
-	Para realizar todas las partes de esta entrega aplicamos varias herramientas TIC, desde editores de texto Markdown como Obsidian hasta Webs de diseño y prototipado como Figma.
-
-- Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.
-
-	Aplicamos lo aprendido en el curso durante el desarrollo del proyecto, como temas de gestión de proyectos de software, diseño de interfaces (FrontEnd), cálculo de costos y trabajo, entre otros.
-
-- Toma decisiones en su práctica profesional y personal, de manera responsable.
-
-	Se demuestra a lo largo de todo el desarrollo, al estar decidiendo desde roles para el trabajo en base a habilidades hasta gestión del tiempo para entregar en el plazo sin exagerar la carga de trabajo.
-
-
-##### Específicas
-- *Analiza los principales métodos, técnicas, procedimientos y buenas prácticas utilizados en las fases de requisitos, diseño, codificación, pruebas y mantenimiento del software, de acuerdo con el cuerpo de conocimientos reconocido por la disciplina.*
-
-	En esta entrega se hace énfasis en el diseño, específicamente diseño FrontEnd
-
-- *Selecciona el Modelo de Ciclo de Vida del Software en el inicio de un proyecto, con base en las características del equipo de desarrollo, del cliente y de la problemática.*
-
-	Durante el proyecto decidimos el modelo de ciclo de vida ideal para el mismo (que es el Modelo Cascada combinado con ciertos aspectos de Evolutivo por Prototipos) basado en las características del mismo
-
-- Analiza los principales métodos, técnicas, procedimientos, y buenas prácticas utilizados en los procesos de estimación, planificación, seguimiento, control, calidad y configuración del software, de acuerdo con el cuerpo de conocimientos reconocido por la disciplina.
-
-	En el proyecto aplicamos varios métodos y procesos para hacer la planificación del trabajo y realizar estimaciones de costes y esfuerzo
-
-
-#### Video (Entrega 2)
-
-[Ver Video Aquí](https://drive.google.com/file/d/1Bd0VSpyHNHYDgjM3c2XLkxCzs3-8VdkT/view?usp=sharing)
+[Watch Here](https://drive.google.com/file/d/1Bd0VSpyHNHYDgjM3c2XLkxCzs3-8VdkT/view?usp=sharing)

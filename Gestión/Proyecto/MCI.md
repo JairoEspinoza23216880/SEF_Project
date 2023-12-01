@@ -11,20 +11,19 @@
 
 ## Ariadne
 
-- <span style="color:purple; font-weight:bold">Diseño UI/UX</span>
-- <span style="color:grey; font-weight:bold">Construcción del Prototipo en Figma (Ventanas)</span>
+- <span style="color:purple; font-weight:bold">Construcción del Prototipo en Figma (Ventanas e Hipervínculos)</span>
 
 ## Gaspar
 
-- <span style="color:green; font-weight:bold">Construcción del Prototipo en Figma (Ventanas)</span>
+- <span style="color:purple; font-weight:bold">Realización de Pruebas</span>
 ## Jairo
 
 - <span style="color:yellow; font-weight:bold">Generación de Documentos de Gestión</span>
-- <span style="color:blue; font-weight:bold">Edición del Video</span>
+- <span style="color:blue; font-weight:bold">Edición del Video de Presentación</span>
 ## Pablo
 
-- <span style="color:purple; font-weight:bold">Construcción del Prototipo Figma (Ventanas e Hipervínculos)</span>
+- <span style="color:purple; font-weight:bold">Construcción del Prototipo en Figma (Ventanas e Hipervínculos)</span>
 
 ## Santiago
 
-- <span style="color:blue; font-weight:bold">Construcción del Prototipo en Figma (Ventanas)</span>
+- <span style="color:purple; font-weight:bold">Realización de Pruebas</span>
