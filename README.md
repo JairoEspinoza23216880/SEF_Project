@@ -9,6 +9,6 @@
 
 **Documentos:**
 
-[Investigación](/Investigación.pdf)
+[Investigación](/Investigacion.pdf)
 
 [Infografía](/Infografia.pdf)
