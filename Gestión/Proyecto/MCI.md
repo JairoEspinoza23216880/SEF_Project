@@ -1,29 +1,24 @@
 # Métrica de Contribución Individual
 
-#### Niveles de Dificultad de Tareas
+#### Niveles de Dificultad de Tareas (De Más a menos): 
 
-<span style="color:cyan; font-weight:bold">Ascendente</span>
-<span style="color:yellow; font-weight:bold">Maestro Artesano</span>
-<span style="color:purple; font-weight:bold">Oficial</span>
-<span style="color:blue; font-weight:bold">Aprendiz</span>
-<span style="color:green; font-weight:bold">Tambaleante</span>
-<span style="color:grey; font-weight:bold">Primitivo</span>
+${\color{cyan}Ascendente}$
+${\color{yellow}Maestro \space Artesano}$
+${\color{purple}Oficial}$
+${\color{blue}Aprendiz}$
+${\color{green}Tambaleante}$
+${\color{white}Primitivo}$
 
-## Ariadne
+#### Ariadne
+-  ${\color{purple}Construcción \space del \space Prototipo \space en \space Figma \space (Ventanas \space e \space Hipervínculos)}$
+#### Gaspar
+- ${\color{purple}Realización \space de \space Pruebas}$
+#### Jairo
 
-- <span style="color:purple; font-weight:bold">Construcción del Prototipo en Figma (Ventanas e Hipervínculos)</span>
+- ${\color{yellow}Generación \space de \space Documentos \space de \space Gestión}$
+- ${\color{blue}Edición \space de \space Video \space de \space Presentación}$
+#### Pablo
+-  ${\color{purple}Construcción \space del \space Prototipo \space en \space Figma \space (Ventanas \space e \space Hipervínculos)}$
+#### Santiago
 
-## Gaspar
-
-- <span style="color:purple; font-weight:bold">Realización de Pruebas</span>
-## Jairo
-
-- <span style="color:yellow; font-weight:bold">Generación de Documentos de Gestión</span>
-- <span style="color:blue; font-weight:bold">Edición del Video de Presentación</span>
-## Pablo
-
-- <span style="color:purple; font-weight:bold">Construcción del Prototipo en Figma (Ventanas e Hipervínculos)</span>
-
-## Santiago
-
-- <span style="color:purple; font-weight:bold">Realización de Pruebas</span>
+- ${\color{purple}Realización \space de \space Pruebas}$

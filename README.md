@@ -32,6 +32,7 @@ For the third stage, the focus was on completing a more advanced prototype to su
 As umbrella activities, in each delivery we review (and rewrite if necessary) the requirements and other artifacts to ensure their quality.
 
 ### Requirements
+At the beginning of the project we defined the list of requirements for the software, however during the development many changes were made, removing some requirements considered unnecessary and editing others to adapt to the needs and characteristics of the final product, as well as the order of Priority of requirements was changed to give more importance to those vital for functional and quality software.
 
 #### Final Version
 - [Functional Requirements](/Requerimientos/Requerimientos-F.md)
@@ -43,9 +44,15 @@ As umbrella activities, in each delivery we review (and rewrite if necessary) th
 
 ### Design and Prototyping
 
-The project prototype was designed in the website Figma, in this stage it was improved to be more advanced and in line with the requirements
+The project prototype was designed in the website Figma, in this stage it was improved to be more advanced and in line with the requirements.
 
-- [Figma Prototype](https://www.figma.com/file/00RXg2EyQQ8lPie4g8X1Pg/Turizim%C3%ADn?type=design&node-id=0%3A1&mode=design&t=WUl0pipkpNwVMItN-1)
+- [Figma Prototype](https://www.figma.com/file/sYwdK0ifnnBnVqLrTDscOn/Untitled?type=design&node-id=0%3A1&mode=design&t=jspHtt23VnkGViDF-1)
+
+### Software Testing
+
+A single unit test was carried out, focused on analyzing the operation and usability of the system, as well as reviewing the user interface through an exploration of the prototype for all its options.
+
+[Test Report](/Pruebas/ReportePruebas_Prototipo.pdf)
 
 ### Process
 
@@ -96,7 +103,12 @@ For better team management we use Trello boards to define roles, tasks and due d
 
 	In the project we apply several methods and processes to plan the work and make cost and effort estimates.
 
+### Constructive Criticism
+We consider that the course was quite well carried out, the topics are well explained, the materials are very complete and the project is an excellent way to apply the knowledge learned in the classes.
+However, there are certain things that we want to mention about the course, mainly about the hybrid mode, it seems to us that this mode, although it can be useful, has problems, mainly the quality of the transmission, since it influences the concentration of students and low audio quality causes it to be lost.
+Furthermore, although we said that the materials were very complete, they have errors in writing, formatting or structuring of the information, we recommend a better review of the presentations, as an extra we also suggest a better design for them.
+We have no extra activities to recommend.
 
 #### Video (Third Delivery)
 
-[Watch Here](https://drive.google.com/file/d/1Bd0VSpyHNHYDgjM3c2XLkxCzs3-8VdkT/view?usp=sharing)
+[Watch Here]() PENDIENTE
